@@ -34,6 +34,7 @@ Hence, we are coming with a solution to women security in this project to reduce
 <h3>Presentation Link</h3>
 [Tech-O-Wizard.pptx](https://github.com/GAMAKANK/Tech-O-Wizard/files/14897268/Tech-O-Wizard.pptx)
 <h3>Video link</h3>
+https://www.loom.com/share/831cea52eeaf42ee94f95e5320ae5e08
 <h3>Project dependencies:</h3>
 <ol>
   <li><b>pushbullet application on phone</b>For giving alert message</li>
