@@ -19,5 +19,7 @@ Hence, we are coming with a solution to women security in this project to reduce
 
 <li>If something miscellaneous seem to happen then police can  start Styron and will make people living nearby  alert so that if police does not reach on time atleast people living nearby can help the girl there or even the patrolling police can reach them out.</li>
 </ol>
+[Tech-O-Wizard.pptx](https://github.com/GAMAKANK/Tech-O-Wizard/files/14897268/Tech-O-Wizard.pptx)
+
 
 
